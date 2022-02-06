@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Squat and Walk",
+    "time": "45 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": "https://cdn.videvo.net/videvo_files/video/premium/video0255/large_watermarked/2500_01617_preview.mp4"
+  },
+  {
+    "title": "Plie Squat and Heel Raises",
+    "time": "55 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": "https://cdn.videvo.net/videvo_files/video/premium/video0246/large_watermarked/2500_02334_preview.mp4"
+  },
+  {
+    "title": "Squat Kickback",
+    "time": "60 seconds",
+    "thumbnail": "assets/squat3.jpg",
+    "videoUrl": "https://cdn.videvo.net/videvo_files/video/premium/video0246/large_watermarked/2500_02103_preview.mp4"
+  },
+  {
+    "title": "Squat with Side Leg Lift",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://cdn.videvo.net/videvo_files/video/premium/video0253/large_watermarked/1000_00525_preview.mp4"
+  }
+
+]
